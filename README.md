@@ -4,9 +4,10 @@
 ## Screenshots
 
 <img src= "screenshot/TodoScreen.jpg" width= 200 height = 400 >
+---
 <img src= "screenshot/addNew.jpg" width= 200 height = 400 >
 
----
+
 
 
 
