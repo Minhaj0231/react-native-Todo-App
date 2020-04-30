@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![](screenshot/TodoScreen.jpg=300*250)
+![](screenshot/TodoScreen.jpg | width=100)
 
 ---
 
