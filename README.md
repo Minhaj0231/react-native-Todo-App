@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![](screenshot/TodoScreen.jpg  =20*20 )
+![](screenshot/TodoScreen.jpg  )
 ---
 
 ![](screenshot/addNew.jpg) 
