@@ -3,10 +3,10 @@
 
 ## Screenshots
 
-<img src= "screenshot/TodoScreen.jpg" width= 100 height = 100 >
+<img src= "screenshot/TodoScreen.jpg" width= 200 height = 400 >
+<img src= "screenshot/addNew.jpg" width= 200 height = 400 >
 
-![github-small](screenshot/TodoScreen.jpg  )
 ---
 
-![github-small](screenshot/addNew.jpg) 
+
 
