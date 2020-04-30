@@ -3,8 +3,8 @@
 
 ## Screenshots
 
-![](screenshot/TodoScreen.jpg  )
+![github-small](screenshot/TodoScreen.jpg  )
 ---
 
-![](screenshot/addNew.jpg) 
+![github-small](screenshot/addNew.jpg) 
 
