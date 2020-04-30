@@ -3,9 +3,8 @@
 
 ## Screenshots
 
-![](screenshot/TodoScreen.jpg ) <!-- .element height="20%" width="50%" -->
-
+![](screenshot/TodoScreen.jpg  =20*20 )
 ---
 
-![](screenshot/addNew.jpg) <!-- .element height="20%" width="50%" -->
+![](screenshot/addNew.jpg) 
 
