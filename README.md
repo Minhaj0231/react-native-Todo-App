@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![](screenshot/TodoScreen.jpg | width=100) <!-- .element height="50%" width="50%" -->
+![](screenshot/TodoScreen.jpg ) <!-- .element height="50%" width="50%" -->
 
 ---
 
