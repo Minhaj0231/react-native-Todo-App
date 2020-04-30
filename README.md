@@ -1,5 +1,5 @@
 # react-native-Todo-App
-####A todo App built with react native, context and  react navigation
+#### A todo App built with react native, context and  react navigation
 
 ## Screenshots
 
